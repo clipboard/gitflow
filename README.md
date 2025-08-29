@@ -1,0 +1,7 @@
+# gitflow
+
+develop
+
+feature
+
+release
