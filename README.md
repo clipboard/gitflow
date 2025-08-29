@@ -5,3 +5,5 @@ develop
 feature
 
 release
+
+hotfix
